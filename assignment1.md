@@ -46,7 +46,6 @@
       It enables applications to transcribe audio recordings or provide real-time speech recognition.
     -Translation API: A service that provides machine translation capabilities.
       It allows applications to translate text between different languages.
-Sure! Here are the answers to your remaining questions:
 
 5. Example of GCP's Media Translation service:
    Google Cloud Platform's Media Translation service allows you to automatically translate media content, such as videos and audio, into different languages. It utilizes machine learning to provide accurate translations while maintaining the original timing and intonation of the source content.
